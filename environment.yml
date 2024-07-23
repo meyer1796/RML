@@ -22,3 +22,5 @@ dependencies:
   - r-stringr
   - r-caret
   - r-kernlab
+  - r-randomForest
+  - r-ellipse
